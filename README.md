@@ -1,0 +1,1 @@
+# Dynamic-Adaptive-RAG-Pipeline-with-Automated-Evaluation
