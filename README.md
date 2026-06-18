@@ -1,4 +1,4 @@
-# Dynamic-Adaptive-RAG-Pipeline-with-Automated-Evaluation
+
 # Dynamic Adaptive RAG Pipeline with Automated Evaluation
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
