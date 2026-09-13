@@ -1,0 +1,23 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Generated results / caches / indices (large, regenerable, and Drive-specific)
+results.csv
+baseline_results.csv
+adaptive_results.csv
+faiss_index/
+adaptive_rag_project/
+
+# HuggingFace / model caches
+.cache/
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store

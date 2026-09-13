@@ -1,0 +1,22 @@
+# Colab pre-installs torch, pandas, numpy, and matplotlib -- listed here
+# explicitly so this also works outside Colab (e.g. a local GPU box).
+torch
+pandas
+numpy
+matplotlib
+
+# Installed by the notebook's own !pip install cell -- listed here too so
+# the environment is reproducible without relying on that cell.
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-community
+datasets
+rouge-score
+bert-score
+tqdm
